@@ -1,8 +1,10 @@
 ## <p style="text-align: center;">Incecast</p>
-<p style="text-align: center;">A discord bot to listen to online radios with search capabilities</p>
+<p style="text-align: center;">A discord bot to listen to Radio Garden with search capabilities</p>
 
 > [!WARNING]  
 > @discordjs/voice currently does not support ARM64 architecture. Tested to work on an AMD64 architecture.
+
+## Forked from okdargy's incecast
 
 ## Features
 - 📻 Listen to radio streams
