@@ -1,4 +1,4 @@
-## <p style="text-align: center;">Incecast</p>
+## <p style="text-align: center;">sproutbot</p>
 <p style="text-align: center;">A discord bot to listen to Radio Garden with search capabilities</p>
 
 > [!WARNING]  
